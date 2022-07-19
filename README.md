@@ -1,5 +1,5 @@
 
-# 'QSARTNBC' R-package: Predictive tool for VEGFR2 tyrosine kinase inhibitors
+# 'QSARMV' R-package: Predictive tool for VEGFR2 tyrosine kinase inhibitors
 
 **Corresponding Authors**: Dr. Feroz Khan and Dr. Prema G Vasudev, CSIR-CIMAP, Lucknow-226015, India
 
