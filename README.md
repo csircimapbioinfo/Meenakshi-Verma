@@ -1,4 +1,3 @@
-# Meenakshi-Verma
 
 # 'QSARTNBC' R-package: Predictive tool for VEGFR2 tyrosine kinase inhibitors
 
